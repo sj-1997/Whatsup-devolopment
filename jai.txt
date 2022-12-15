@@ -7,3 +7,5 @@ AUTHOR:SAKTHI JAYANTH
 2.Last seen code
 
 3.Chat seen code
+
+4.Hiding last seen
