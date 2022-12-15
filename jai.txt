@@ -9,3 +9,7 @@ AUTHOR:SAKTHI JAYANTH
 3.Chat seen code
 
 4.Hiding last seen
+
+5.Adding audio call
+
+6.Adding video call
